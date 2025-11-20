@@ -89,3 +89,10 @@ In the end, it prints the total number of correct distances, wrong distances and
 
 The algorithm seems to work pretty well, always matching the NetworkX's results, except for problems with negative values.
 In that case, the algorithm seems to always find negative cycles, making it impossible to compute the shortest path.
+
+
+---
+
+**Author:** [Riccardo Dattena (helped by ChatGPT for a couple of lines)]  
+**Course:** Computational Intelligence (CI2025/26)  
+**Lab 3 — Shortest Path**
